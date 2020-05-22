@@ -1,5 +1,5 @@
 /* Select the image with a class of kitty-1 */
-<img src="../images/kitty-1.png" alt="Cinque Terre">
+<img src="../images/kitty-1.png" class="kitty-1">
 
 .absolute {
   position: absolute;
